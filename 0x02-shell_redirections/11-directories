@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -alR /root | grep -c ^d
