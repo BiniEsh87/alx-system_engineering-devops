@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alR /root | grep -c ^d
+find . -type d ! -path . -print | wc -l
