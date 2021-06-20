@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -sd "\t\n" z1
+paste -sd "\t\n" 
