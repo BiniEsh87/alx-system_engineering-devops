@@ -1,7 +1,6 @@
 # Shell, I/O Redirections and filters
 
-Project done during **ALX Software Engineering programme** at **ALX + HOLBERTON**. It aims to teach/learn about basics commands, navigation, files and directories in **Shell**.
-
+Project done during **ALX Software Engineering programme** at **ALX + HOLBERTON**. It aims to teach/learn how to handle standard input and output and how to combine commands and filters with redirections in Shell.
 
 ## Technologies
 * Scripts written in Bash 5.0.17
