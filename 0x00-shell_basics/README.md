@@ -1,4 +1,4 @@
-# Low-level programming & Algorithm
+#Shell, Basics
 
 Project done during **ALX Software Engineering programme** at **ALX + HOLBERTON**. It aims to teach/learn about basics commands, navigation, files and directories in **Shell**.
 
